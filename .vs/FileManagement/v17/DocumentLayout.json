@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karel\\source\\repos\\FileUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\repositories\\impl\\filemanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\repositories\\impl\\filemanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\controllers\\filemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\controllers\\filemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\services\\impl\\filemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\services\\impl\\filemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\controllers\\filemanagementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\controllers\\filemanagementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Karel\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\swagger\\impl\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\swagger\\impl\\fileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\services\\ifilemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\services\\ifilemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\filemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\filemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\repositories\\ifilemanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\repositories\\ifilemanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\swagger\\ioperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\swagger\\ioperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\dbcontexts\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileManagement.csproj|solutionrelative:fileupload\\dbcontexts\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|c:\\users\\karel\\source\\repos\\fileupload\\fileupload\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC46879D-488A-4243-AE18-2B5410CF3C76}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileManagementController.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Controllers\\FileManagementController.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileManagementController.cs",
+              "RelativeToolTip": "FileUpload\\Controllers\\FileManagementController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAwwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:24:34.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\Karel\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:51:46.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Repositories\\Impl\\FileManagementRepository.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Repositories\\Impl\\FileManagementRepository.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Repositories\\Impl\\FileManagementRepository.cs",
+              "RelativeToolTip": "FileUpload\\Repositories\\Impl\\FileManagementRepository.cs",
+              "ViewState": "AQIAAAwAAABAMzMzMzM7wCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:57:40.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Services\\Impl\\FileManagementService.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Services\\Impl\\FileManagementService.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Services\\Impl\\FileManagementService.cs",
+              "RelativeToolTip": "FileUpload\\Services\\Impl\\FileManagementService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:28:11.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileManagementControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileManagementControllerTests.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Controllers\\FileManagementControllerTests.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileManagementControllerTests.cs",
+              "RelativeToolTip": "FileUpload\\Controllers\\FileManagementControllerTests.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAiwOQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:29:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Swagger\\Impl\\FileUploadOperationFilter.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Swagger\\Impl\\FileUploadOperationFilter.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Swagger\\Impl\\FileUploadOperationFilter.cs",
+              "RelativeToolTip": "FileUpload\\Swagger\\Impl\\FileUploadOperationFilter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:23:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileManagement",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\FileManagement.csproj",
+              "RelativeDocumentMoniker": "FileUpload\\FileManagement.csproj",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\FileManagement.csproj",
+              "RelativeToolTip": "FileUpload\\FileManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T11:21:41.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Services\\IFileManagementService.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Services\\IFileManagementService.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Services\\IFileManagementService.cs",
+              "RelativeToolTip": "FileUpload\\Services\\IFileManagementService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:27:58.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Program.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Program.cs",
+              "RelativeToolTip": "FileUpload\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:25:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "FileUpload\\appsettings.json",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\appsettings.json",
+              "RelativeToolTip": "FileUpload\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T12:26:07.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Models\\LoginModel.cs",
+              "RelativeToolTip": "FileUpload\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:36:25.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFileManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Repositories\\IFileManagementRepository.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Repositories\\IFileManagementRepository.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Repositories\\IFileManagementRepository.cs",
+              "RelativeToolTip": "FileUpload\\Repositories\\IFileManagementRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:56:38.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Swagger\\IOperationFilter.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Swagger\\IOperationFilter.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Swagger\\IOperationFilter.cs",
+              "RelativeToolTip": "FileUpload\\Swagger\\IOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:22:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\Models\\FileModel.cs",
+              "RelativeToolTip": "FileUpload\\Models\\FileModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:19:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\DBContexts\\FileDBContext.cs",
+              "RelativeDocumentMoniker": "FileUpload\\DBContexts\\FileDBContext.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\DBContexts\\FileDBContext.cs",
+              "RelativeToolTip": "FileUpload\\DBContexts\\FileDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:09:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FileUpload\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Karel\\source\\repos\\FileUpload\\FileUpload\\WeatherForecast.cs",
+              "RelativeToolTip": "FileUpload\\WeatherForecast.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:25:10.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
